@@ -11,8 +11,10 @@ This project focuses on the statistical analysis of frostbite cases in Poland. T
 ## The Process
 1.**Import data**
 * Imported raw clinical datasets in CSV format directly into Power BI.
+  
 2.**Cleaning data**
-* In Power Query removed duplicates and to maintain calculation continuity, values marked as "<5" were replaced with a constant numerical value of 2 by Replace Values. This approach enabled mathematical operations while maintaining an acceptable margin of statistical error. 
+* In Power Query removed duplicates and to maintain calculation continuity, values marked as "<5" were replaced with a constant numerical value of 2 by Replace Values. This approach enabled mathematical operations while maintaining an acceptable margin of statistical error.
+  
 3.**Visualization**
 * Implemented "Top N" filters to isolate the 3 most frequent medical conditions, reducing visual clutter and focusing on high-impact diagnoses.
 * Created dynamic integrated slicers for Year, Gender, and Age Group, enabling deep-dive correlation analysis across various demographics.
