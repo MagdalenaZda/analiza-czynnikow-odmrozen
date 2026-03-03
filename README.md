@@ -31,10 +31,10 @@ This project focuses on the statistical analysis of frostbite cases in Poland be
 * Visualization: Power BI Dashboards
 * Documentation : GitHub
 
+
+## Project Preview
 https://github.com/user-attachments/assets/6b124324-f770-42ae-a791-73fb93b1b622
 
-## Podgląd projektu
-https://github.com/MagdalenaZda/analysis-of-frostbites/issues/new
 
 ##  Data Source
 https://dane.gov.pl/pl/dataset/3819,swiadczenia-z-rozpoznaniem-odmrozenia-i-hipotermii
