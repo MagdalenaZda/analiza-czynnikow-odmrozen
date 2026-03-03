@@ -34,7 +34,7 @@ This project focuses on the statistical analysis of frostbite cases in Poland be
 
 
 ## Project Preview
-https://github.com/user-attachments/assets/6b124324-f770-42ae-a791-73fb93b1b622
+https://github.com/user-attachments/assets/aa2ad703-d0b2-4782-85fe-5232c20b87ef
 
 
 ##  Data Source
