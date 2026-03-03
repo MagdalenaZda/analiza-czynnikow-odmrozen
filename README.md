@@ -1,4 +1,4 @@
-# Analysis of Frostbite Statistics in Poland
+# Analysis of Frostbites
 
 ## Project Overview
 This project focuses on the statistical analysis of frostbite cases in Poland between 2021 and 2025 . The goal is to identify patterns related to demographics, severity, and seasonal trends based on regional data.
